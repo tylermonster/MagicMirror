@@ -27,7 +27,7 @@
 	<div class="top left"><div class="date small dimmed"></div><div class="time" id="time"></div><div class="calendar xxsmall"></div></div>
 
 	<div class="center-ver center-hor">
-		<img src="https://s-media-cache-ak0.pinimg.com/736x/ca/72/1c/ca721c9d174cea29d10e731df3dc170c.jpg" style="max-height: 630px; max-width: 849px; >
+		<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/SanJoseSharksLogo.svg/1258px-SanJoseSharksLogo.svg.png" style="max-height: 630px; max-width: 849px; >
 	<div class="image"></div></div>
 
 <!--	<div class="lower-third center-hor"><div class="news light"></div></div> -->
