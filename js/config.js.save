@@ -25,10 +25,10 @@ var config = {
             'How was your sleep?'
         ],
         afternoon: [
-            'Hello, beauty!',
-            'You look sexy!',
-			'12345678910111213141516171819',
-            'Looking good today!'
+           // 'Hello, beauty!',
+           // 'You look sexy!',
+			'123456789101112131415161718',
+           // 'Looking good today!'
         ],
         evening: [
             'Wow, you123 look hot!',
