@@ -18,7 +18,7 @@
 <meta http-equiv="expires" content="Tue, 01 Jan 1980 11:00:00 GMT">
 <meta http-equiv="pragma" content="no-cache">
 
-<meta http-equiv="refresh" content="100">
+<meta http-equiv="refresh" content="15">
 	<link rel="icon" href="data:;base64,iVBORw0KGgo=">
 </head>
 <body>
@@ -27,7 +27,7 @@
 	<div class="top left"><div class="date small dimmed"></div><div class="time" id="time"></div><div class="calendar xxsmall"></div></div>
 
 	<div class="center-ver center-hor">
-		<img src="http://www.logodesignblog.net/logos/san-francisco-49ers-logo.jpg" style="max-height: 630px; max-width: 849px; >
+		<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/SanJoseSharksLogo.svg/1258px-SanJoseSharksLogo.svg.png" style="max-height: 630px; max-width: 849px; >
 	<div class="image"></div></div>
 
 <!--	<div class="lower-third center-hor"><div class="news light"></div></div> -->
