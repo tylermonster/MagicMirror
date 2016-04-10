@@ -30,9 +30,9 @@ var config = {
             'Looking good today!'
         ],
         evening: [
-			'wowowowowowow wowow!',
-			'zozozo zozozo zozoz zozo!',
-			'bobobobo bobobob bobo!'
+			'Sharks awaiting eagerly to see if they play the ducks or kings',
+			'baby zoey so kawaiiiii!',
+			'jessica and angelo are at the justin bieber concert!'
 		]
     },
     calendar: {
