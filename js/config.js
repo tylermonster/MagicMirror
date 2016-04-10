@@ -30,10 +30,7 @@ var config = {
             'Looking good today!'
         ],
         evening: [
-          // 'Wow, you look hot!',
-          //  'You look nice!',
-          //  'Hi, sexy!'
-              '123456789123456789123456789'
+         '123456789123456789123456789'
 		]
     },
     calendar: {
