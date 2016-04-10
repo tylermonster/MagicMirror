@@ -27,7 +27,7 @@
 	<div class="top left"><div class="date small dimmed"></div><div class="time" id="time"></div><div class="calendar xxsmall"></div></div>
 
 	<div class="center-ver center-hor">
-		<img src="http://texas.rangers.mlb.com/mlb/images/team_logos/social_media/og_1200x630_image/tex_1200x630.jpg">
+		<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/SanJoseSharksLogo.svg/1258px-SanJoseSharksLogo.svg.png">
 	<div class="image"></div></div>
 
 <!--	<div class="lower-third center-hor"><div class="news light"></div></div> -->
