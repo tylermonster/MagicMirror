@@ -30,7 +30,7 @@ var config = {
             'Looking good today!'
         ],
         evening: [
-         '123456789123456789123456789'
+         '123456'
 		]
     },
     calendar: {
@@ -64,13 +64,7 @@ var config = {
     },
     news: {
       //  feed: 'http://www.dallascowboys.com/rss/article'
-        feed: 'http://www.repeatserver.com/Users/tylermonster/news2.xml'
+      //  feed: 'http://www.repeatserver.com/Users/tylermonster/news2.xml'
        // feed: 'http://www.repeatserver.com/Users/tylermonster/news.xml'  
    },
-
-
-    image: {
-	image: 'http://i.imgur.com/xIzskJl.jpg'
-    },
-
 }
