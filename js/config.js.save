@@ -27,6 +27,7 @@ var config = {
         afternoon: [
             'Hello, beauty!',
             'You look sexy!',
+			'how many characters can i make the longest message',
             'Looking good today!'
         ],
         evening: [
