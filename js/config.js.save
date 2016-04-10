@@ -27,7 +27,7 @@ var config = {
         afternoon: [
            // 'Hello, beauty!',
            // 'You look sexy!',
-			'123456789101112131415161718',
+			'1234567891011121314151617'
            // 'Looking good today!'
         ],
         evening: [
