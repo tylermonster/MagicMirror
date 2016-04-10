@@ -30,10 +30,11 @@ var config = {
             'Looking good today!'
         ],
         evening: [
-            'Wow, you look hot!',
-            'You look nice!',
-            'Hi, sexy!'
-        ]
+          // 'Wow, you look hot!',
+          //  'You look nice!',
+          //  'Hi, sexy!'
+              '123456789123456789123456789'
+		]
     },
     calendar: {
         maximumEntries: 10, // Total Maximum Entries
