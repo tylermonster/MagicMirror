@@ -20,8 +20,8 @@ var config = {
         interval: 30000,
         fadeInterval: 4000,
         morning: [
-            'Good morning, handsome!',
-            'Enjoy your day!',
+            'Good morning, Beautiful!',
+            'Have a GREAT day at WORK!',
             'How was your sleep?'
         ],
         afternoon: [

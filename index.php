@@ -27,7 +27,7 @@
 	<div class="top left"><div class="date small dimmed"></div><div class="time" id="time"></div><div class="calendar xxsmall"></div></div>
 
 	<div class="center-ver center-hor">
-		<img src="http://cdn.images.dailystar.co.uk/dynamic/1/photos/887000/620x/113887.jpg" style="max-height: 630px; max-width: 849px; >
+		<img src="https://i.imgur.com/Av8StjU.jpg" style="max-height: 630px; max-width: 849px; >
 	<div class="image"></div></div>
 
 <!--	<div class="lower-third center-hor"><div class="news light"></div></div> -->
