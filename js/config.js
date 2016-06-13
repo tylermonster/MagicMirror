@@ -30,9 +30,9 @@ var config = {
             'Overwatch123'
         ],
         evening: [
-			'Sharks awaiting eagerly to see if they play the ducks or kings',
-			'baby zoey so kawaiiiii!',
-			'jessica and angelo are at the justin bieber concert!'
+			'Sharks awaiting eagerly to see if they play the ducks or kings123',
+			'baby zoey so kawaiiiii!123',
+			'jessica and angelo are at the justin bieber concert!123'
 		]
     },
     calendar: {
