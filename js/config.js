@@ -25,9 +25,9 @@ var config = {
             'How was your sleep?'
         ],
         afternoon: [
-            'mr robot decoded.txt',
-            'david eagles',
-            'david with the big home run'
+            'will the warriors win back to back',
+            'will lebron win another title',
+            'will CLE do what no ones done before, come back from 3-1'
         ],
         evening: [
 			'Sharks awaiting eagerly to see if they play the ducks or kings123',
