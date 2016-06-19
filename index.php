@@ -23,8 +23,8 @@
 </head>
 <body>
 
-	<div class="top right"><div class="windsun small dimmed"></div><div class="temp"></div><div class="forecast small dimmed"></div></div>
-	<div class="top left"><div class="date small dimmed"></div><div class="time" id="time"></div><div class="calendar xxsmall"></div></div>
+	<div class="top right"><div class="windsun small "></div><div class="temp"></div><div class="forecast small dimmed"></div></div>
+	<div class="top left"><div class="date small "></div><div class="time" id="time"></div><div class="calendar xxsmall"></div></div>
 
 	<div class="center-ver center-hor">
  	<img src="" style="max-height: 630px; max-width: 849px; >
