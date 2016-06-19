@@ -25,9 +25,9 @@ var config = {
             'How was your sleep?'
         ],
         afternoon: [
-            'Happy Fathers day!1',
-            'Rangers WIN!1',
-            'Overwatch123'
+            'mr robot decoded.txt',
+            'david eagles',
+            'david with the big home run'
         ],
         evening: [
 			'Sharks awaiting eagerly to see if they play the ducks or kings123',
