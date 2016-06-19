@@ -25,8 +25,8 @@ var config = {
             'How was your sleep?'
         ],
         afternoon: [
-            'Hello, beauty!1',
-            'You look sexy!1',
+            'Happy Fathers day!1',
+            'Rangers WIN!1',
             'Overwatch123'
         ],
         evening: [
