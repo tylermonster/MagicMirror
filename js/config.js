@@ -30,9 +30,9 @@ var config = {
             'will CLE do what no ones done before, come back from 3-1'
         ],
         evening: [
-			'Sharks awaiting eagerly to see if they play the ducks or kings123',
-			'baby zoey so kawaiiiii!123',
-			'jessica and angelo are at the justin bieber concert!123'
+			'Sharks womp womp',
+			'clevland wins!',
+			'warriors lost'
 		]
     },
     calendar: {
