@@ -27,8 +27,8 @@
 	<div class="top left"><div class="date small "></div><div class="time" id="time"></div><div class="calendar xxsmall"></div></div>
 
 	<div class="center-ver center-hor">
- 	<img src="" style="max-height: 630px; max-width: 849px; >
-	<div class="image">http://i.imgur.com/TC8HQDQ.png</div></div>
+ 	<img src="http://i.imgur.com/TC8HQDQ.png" style="max-height: 630px; max-width: 849px; >
+	<div class="image"></div></div>
 
 <!--	<div class="lower-third center-hor"><div class="news light"></div></div> -->
 	<div class="bottom center-hor"><div class="compliment light"></div></div>
