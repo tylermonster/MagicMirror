@@ -27,12 +27,12 @@ var config = {
         afternoon: [
             'HAPPY BIRTHDAY JESSICA!!!',
             'HOPE YOU HAVE THE BEST BIRTHDAY',
-            'YOU ARE AMAZING'
+            'YOU ARE!!!'
         ],
         evening: [
 			'HAPPY BIRTHDAY JESSICA!!!',
 			'GET READY FOR YOUR AUSTION BAE-CATION!',
-			'YOU LOOK BEAUTIFUL!'
+			'YOU ARE!!!'
 		]
     },
     calendar: {
