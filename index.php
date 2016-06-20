@@ -28,7 +28,7 @@
 
 	<div class="center-ver center-hor">
  	<img src="" style="max-height: 630px; max-width: 849px; >
-	<div class="image"></div></div>
+	<div class="image">http://i.imgur.com/TC8HQDQ.png</div></div>
 
 <!--	<div class="lower-third center-hor"><div class="news light"></div></div> -->
 	<div class="bottom center-hor"><div class="compliment light"></div></div>

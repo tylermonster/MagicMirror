@@ -21,18 +21,18 @@ var config = {
         fadeInterval: 4000,
         morning: [
             'Good morning, Beautiful!',
-            'Have a GREAT day at WORK!',
+            'HAPPY BIRTHDAY JESSICA!!!',
             'How was your sleep?'
         ],
         afternoon: [
-            'will the warriors win back to back',
-            'will lebron win another title',
-            'will CLE do what no ones done before, come back from 3-1'
+            'HAPPY BIRTHDAY JESSICA!!!',
+            'HOPE YOU HAVE THE BEST BIRTHDAY',
+            'YOU ARE AMAZING'
         ],
         evening: [
-			'Sharks womp womp',
-			'clevland wins!',
-			'warriors lost'
+			'HAPPY BIRTHDAY JESSICA!!!',
+			'GET READY FOR YOUR AUSTION BAE-CATION!',
+			'YOU LOOK BEAUTIFUL!'
 		]
     },
     calendar: {
