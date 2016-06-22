@@ -46,7 +46,7 @@ var config = {
 		},
 		{
 			symbol: 'soccer-ball-o',
-                        url: 'https://www.google.com/calendar/ical/tylermonster2%40gmail.com/public/basic.ics',
+                        url: 'https://calendar.google.com/calendar/ical/tylermonster2%40gmail.com/private-569e1779b002df0240b90361bfae3148/basic.ics',
 		//	url: 'https://www.google.com/calendar/ical/akvbisn5iha43idv0ktdalnor4%40group.calendar.google.com/public/basic.ics',
 		},
 		{
