@@ -21,18 +21,18 @@ var config = {
         fadeInterval: 4000,
         morning: [
             'Good morning, Beautiful!',
-            'HAPPY BIRTHDAY JESSICA!!!',
-            'How was your sleep?'
+            'STEAK! STEAK! STEAK!',
+            'RISE AND SHINE :)'
         ],
         afternoon: [
-            'HAPPY BIRTHDAY JESSICA!!!',
-            'HOPE YOU HAVE THE BEST BIRTHDAY',
-            'YOU ARE!!!'
+            'DONT FORGET CHAMBERLAINS TONIGHT!',
+            'How was Work Today?',
+            'GOOD LUCK AT THE GYM!'
         ],
         evening: [
-			'HAPPY BIRTHDAY JESSICA!!!',
+			'1 MORE DAY OF WORK!',
 			'GET READY FOR YOUR AUSTIN BAE-CATION!',
-			'Goodnight sexy princess!'
+			'Goodnight SWEETIE PIE!'
 		]
     },
     calendar: {
