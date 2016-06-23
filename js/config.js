@@ -31,8 +31,8 @@ var config = {
         ],
         evening: [
 			'HAPPY BIRTHDAY JESSICA!!!',
-			'GET READY FOR YOUR AUSTION BAE-CATION!',
-			'YOU ARE!!!'
+			'GET READY FOR YOUR AUSTIN BAE-CATION!',
+			'Goodnight sexy princess!'
 		]
     },
     calendar: {
