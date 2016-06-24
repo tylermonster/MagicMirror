@@ -26,7 +26,7 @@ var config = {
         ],
         afternoon: [
             'GET READY FOR SOME TOP GOLF!!!',
-            'WHO DOESN'T LOVES WHITE PASTA?!?',
+            'WHO DOESNT LOVES WHITE PASTA?!?',
             'ITS THE FREAKIN WEEKEND BABY IM ABOUT TO HAVE ME SOME FUN!'
         ],
         evening: [
