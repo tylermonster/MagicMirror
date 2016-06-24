@@ -29,10 +29,10 @@ compliments.updateCompliment = function () {
 	if (hour >= 3 && hour < 12) {
 		// Morning compliments
 		_list = compliments.complimentList['morning'].slice();
-	} else if (hour >= 12 && hour < 17) {
+	} else if (hour >= 12 && hour < 21) {
 		// Afternoon compliments
 		_list = compliments.complimentList['afternoon'].slice();
-	} else if (hour >= 17 || hour < 3) {
+	} else if (hour >= 21 || hour < 3) {
 		// Evening compliments
 		_list = compliments.complimentList['evening'].slice();
 	} else {

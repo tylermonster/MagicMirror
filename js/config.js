@@ -20,17 +20,17 @@ var config = {
         interval: 30000,
         fadeInterval: 4000,
         morning: [
-            'Good morning, Beautiful!',
-            'STEAK! STEAK! STEAK!',
-            'RISE AND SHINE :)'
+            'Good morning, SUNSHINE!',
+            'YOU GOT THIS!',
+            'LAST DAY TILL THE WEEKEND!'
         ],
         afternoon: [
-            'DONT FORGET CHAMBERLAINS TONIGHT!',
-            'How was Work Today?',
-            'GOOD LUCK AT THE GYM!'
+            'GET READY FOR SOME TOP GOLF!!!',
+            'WHO DOESN'T LOVES WHITE PASTA?!?',
+            'ITS THE FREAKIN WEEKEND BABY IM ABOUT TO HAVE ME SOME FUN!'
         ],
         evening: [
-			'1 MORE DAY OF WORK!',
+			'HOPE YOU HAD AN AWESOME DAY',
 			'GET READY FOR YOUR AUSTIN BAE-CATION!',
 			'Goodnight SWEETIE PIE!'
 		]
