@@ -20,19 +20,19 @@ var config = {
         interval: 30000,
         fadeInterval: 4000,
         morning: [
-            'Good morning, SUNSHINE!',
-            'YOU GOT THIS!',
-            'LAST DAY TILL THE WEEKEND!'
+            'Good morning, QT!',
+            'BAE-CATION AT LAST!',
+            'LETS GET READY TOOOOOO VACAYYYY!'
         ],
         afternoon: [
-            'GET READY FOR SOME TOP GOLF!!!',
-            'WHO DOESNT LOVES WHITE PASTA?!?',
-            'ITS THE FREAKIN WEEKEND BABY IM ABOUT TO HAVE ME SOME FUN!'
+            'SEE YOU IN A BIT :) !!!',
+            'AUSTIN HERE WE COME',
+            'Dont Forget to Visit my Mom with Coconuts'
         ],
         evening: [
-			'HOPE YOU HAD AN AWESOME DAY',
-			'GET READY FOR YOUR AUSTIN BAE-CATION!',
-			'Goodnight SWEETIE PIE!'
+			'Goodnight hope you had the best birthday!',
+			'The birthday celerbration is just gettin started!',
+			'AUSTIN TMRW!!!'
 		]
     },
     calendar: {
