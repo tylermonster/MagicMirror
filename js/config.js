@@ -20,9 +20,9 @@ var config = {
         interval: 30000,
         fadeInterval: 4000,
         morning: [
-            'Good morning, QT!',
-            'BAE-CATION AT LAST!',
-            'LETS GET READY TOOOOOO VACAYYYY!'
+            'We Will Always Have Holiday Inn',
+            'Heres to looking at you, Kid',
+            'Have a great DAY! :)'
         ],
         afternoon: [
             'SEE YOU IN A BIT :) !!!',
