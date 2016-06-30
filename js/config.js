@@ -20,19 +20,19 @@ var config = {
         interval: 30000,
         fadeInterval: 4000,
         morning: [
-            'We Will Always Have Holiday Inn',
-            'Heres to looking at you, Kid',
-            'Have a great DAY! :)'
+            'GOOD MORNING SUNSHINE',
+            'HAVE A GREAT 4th JULY MARCH!',
+            'YOU GOT THIS!!!'
         ],
         afternoon: [
             'SEE YOU IN A BIT :) !!!',
-            'AUSTIN HERE WE COME',
-            'Dont Forget to Visit my Mom with Coconuts'
+            'CANT WAIT TO SEE YOU TODAY',
+            'YOU ARE GORGEOUS'
         ],
         evening: [
-			'Goodnight hope you had the best birthday!',
-			'The birthday celerbration is just gettin started!',
-			'AUSTIN TMRW!!!'
+			'GOODNIGHT, GREAT JOB AT THE GYM!',
+			'SLEEP TIGHT DONT LET THE BED BUGS BITE',
+			'FOOD COMA TO THE MAXXXXXX'
 		]
     },
     calendar: {
