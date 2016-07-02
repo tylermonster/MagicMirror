@@ -20,9 +20,9 @@ var config = {
         interval: 30000,
         fadeInterval: 4000,
         morning: [
-            'GOOD MORNING SUNSHINE',
-            'HAVE A GREAT 4th JULY MARCH!',
-            'YOU GOT THIS!!!'
+            'GOOD MORNING DEAR HOPE YOU SLEPT WELL',
+            'HAVE A SAFE TRIP to OKIE HOMIE',
+            'I WILL MISS YOU MUCHO AND CANT WAIT TO SEE YOU'
         ],
         afternoon: [
             'SEE YOU IN A BIT :) !!!',
