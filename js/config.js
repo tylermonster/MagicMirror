@@ -20,19 +20,19 @@ var config = {
         interval: 30000,
         fadeInterval: 4000,
         morning: [
-            'GOOD MORNING DEAR HOPE YOU SLEPT WELL',
-            'HAVE A SAFE TRIP to OKIE HOMIE',
-            'I WILL MISS YOU MUCHO AND CANT WAIT TO SEE YOU'
+            'HAPPY FOURTH OF JULY!!!',
+            'GOOD MORNING QT PIE',
+            'HAVE A GREAT DAY'
         ],
         afternoon: [
-            'SEE YOU IN A BIT :) !!!',
+            'CAUSE BABY YOURE A FIREWORK!!!',
             'CANT WAIT TO SEE YOU TODAY',
             'YOU ARE GORGEOUS'
         ],
         evening: [
-			'GOODNIGHT, GREAT JOB AT THE GYM!',
+			'GOODNIGHT CUTIE PIE',
 			'SLEEP TIGHT DONT LET THE BED BUGS BITE',
-			'FOOD COMA TO THE MAXXXXXX'
+			'Thank you for buying the RANGERS Tickets!!!'
 		]
     },
     calendar: {
