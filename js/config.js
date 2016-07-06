@@ -20,19 +20,19 @@ var config = {
         interval: 30000,
         fadeInterval: 4000,
         morning: [
-            'HAPPY FOURTH OF JULY!!!',
+            'GOOD MORNING SUNSHINE',
             'GOOD MORNING QT PIE',
             'HAVE A GREAT DAY'
         ],
         afternoon: [
-            'CAUSE BABY YOURE A FIREWORK!!!',
-            'CANT WAIT TO SEE YOU TODAY',
+            '2 MORE DAYS! (of work)',
+            'HAPPY HUMP DAY :D',
             'YOU ARE GORGEOUS'
         ],
         evening: [
-			'GOODNIGHT CUTIE PIE',
+			'GOODNIGHT SILLY-GOOSE',
 			'SLEEP TIGHT DONT LET THE BED BUGS BITE',
-			'Thank you for buying the RANGERS Tickets!!!'
+			'Thank you FOR BEING SO SWEET TO ME'
 		]
     },
     calendar: {
