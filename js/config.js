@@ -20,14 +20,14 @@ var config = {
         interval: 30000,
         fadeInterval: 4000,
         morning: [
-            'GOOD MORNING SUNSHINE',
-            'GOOD MORNING QT PIE',
-            'HAVE A GREAT DAY'
+            'PRAY FOR DALLAS',
+            'BE SAFE OUT THERE TODAY',
+            'THANKFUL TO HAVE YOU SAFE AND SOUND'
         ],
         afternoon: [
-            '2 MORE DAYS! (of work)',
-            'HAPPY HUMP DAY :D',
-            'YOU ARE GORGEOUS'
+            'CANT WAIT TO SEE YOU TODAY',
+            'ESPECIALLY AFTER A LONG WEEK AND LONG NIGHT',
+            'LETS WORK IT AT THE GYM TODAY!'
         ],
         evening: [
 			'GOODNIGHT SILLY-GOOSE',
