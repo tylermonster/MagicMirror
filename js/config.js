@@ -20,19 +20,19 @@ var config = {
         interval: 30000,
         fadeInterval: 4000,
         morning: [
-            'PRAY FOR DALLAS',
-            'BE SAFE OUT THERE TODAY',
-            'THANKFUL TO HAVE YOU SAFE AND SOUND'
+            'SHORT WEEK!!! ENJOY',
+            'HAVE A GREAT DAY',
+            'HOPE YOU GOT LOTS OF REST'
         ],
         afternoon: [
-            'CANT WAIT TO SEE YOU TODAY',
-            'ESPECIALLY AFTER A LONG WEEK AND LONG NIGHT',
-            'LETS WORK IT AT THE GYM TODAY!'
+            'YOU ARE MY SUNSHINE',
+            'HOPE WORK WASNT TOO BAD!',
+            'REST UP DEAR!'
         ],
         evening: [
-			'GOODNIGHT SILLY-GOOSE',
-			'SLEEP TIGHT DONT LET THE BED BUGS BITE',
-			'Thank you FOR BEING SO SWEET TO ME'
+			'GOODNIGHT BABY BOO',
+			'SLEEP TIGHT',
+			'YOU ARE AMAZING AND EVERYTHING I COULD ASK FOR'
 		]
     },
     calendar: {
