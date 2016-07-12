@@ -20,9 +20,9 @@ var config = {
         interval: 30000,
         fadeInterval: 4000,
         morning: [
-            'SHORT WEEK!!! ENJOY',
-            'HAVE A GREAT DAY',
-            'HOPE YOU GOT LOTS OF REST'
+            'WHERE IS TYREL?',
+            'WHAT DID ELLIOT DO?!!',
+            'WILL EVIL CORP RISE FROM THE ASHES'
         ],
         afternoon: [
             'YOU ARE MY SUNSHINE',
