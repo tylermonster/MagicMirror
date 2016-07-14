@@ -20,14 +20,14 @@ var config = {
         interval: 30000,
         fadeInterval: 4000,
         morning: [
-            'WHERE IS TYREL?',
-            'WHAT DID ELLIOT DO?!!',
-            'WILL EVIL CORP RISE FROM THE ASHES'
+            'GOOD MORNING, JKET!!',
+            'LETS GO TEAM PORK BELLY!!!',
+            'THANKS FOR BEING THE BEST ANYONE COULD ASK FOR'
         ],
         afternoon: [
-            'YOU ARE MY SUNSHINE',
-            'HOPE WORK WASNT TOO BAD!',
-            'REST UP DEAR!'
+            'SEE YOU SOON :)',
+            'OMI AND IT AINT EVEN MY BDAY!',
+            ';)'
         ],
         evening: [
 			'GOODNIGHT BABY BOO',
