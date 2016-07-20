@@ -21,13 +21,13 @@ var config = {
         fadeInterval: 4000,
         morning: [
             'GOOD MORNING, JKET!!',
-            'LETS GO TEAM PORK BELLY!!!',
-            'THANKS FOR BEING THE BEST ANYONE COULD ASK FOR'
+            'GO TEAM PORK BELLY!!!',
+            'you are my FAVORITISM'
         ],
         afternoon: [
-            'SEE YOU SOON :)',
-            'OMI AND IT AINT EVEN MY BDAY!',
-            ';)'
+            'RELAX (dont do it)',
+            'HAPPY HUMP DAY',
+            ':D'
         ],
         evening: [
 			'GOODNIGHT BABY BOO',
