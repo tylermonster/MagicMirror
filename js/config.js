@@ -20,19 +20,19 @@ var config = {
         interval: 30000,
         fadeInterval: 4000,
         morning: [
-            'GOOD MORNING, JKET!!',
-            'FINAL WEEK WE GOT THIS!',
-            'TEAM PORK BELLY!!'
+            'GOOD MORNING, JESSE!!',
+            'HAVE A WONDERFUL CATURDAY',
+            'SLEEP IN REAL GOOD FOR ME'
         ],
         afternoon: [
-            'TAKE ME OUT TO THE BALL GAME',
-            'ALL YOU CAN EAT!!!!!!',
-            'LETS GO RANGERS'
+            'YOU ARE THE BEST TEACHER IN THE WORLD',
+            'DONT LET ANYONE HOLD YOU DOWN',
+            'COWBOYS WIN!'
         ],
         evening: [
-			'GOODNIGHT BABY BOO',
-			'DONT FORGET RANGERS BASEBALL GAME!!!',
-			'CANT WAIT TO SEE YOU TOMORROW!!!'
+			'GOODNIGHT MY DEAR',
+			'DREAMING OF YOU <3',
+			'YOU ARE THE SWEETEST OF PIES'
 		]
     },
     calendar: {
