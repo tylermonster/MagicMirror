@@ -22,16 +22,16 @@ var config = {
         morning: [
             'GOOD MORNING, JESSE!!',
             'HAVE A WONDERFUL CATURDAY',
-            'SLEEP IN REAL GOOD FOR ME'
+            'LETS GO COWBOYS'
         ],
         afternoon: [
-            'YOU ARE THE BEST TEACHER IN THE WORLD',
-            'DONT LET ANYONE HOLD YOU DOWN',
-            'COWBOYS WIN!'
+            'YOU ARE SO BEAUTIFUL :)',
+            'JESS YOU THE BEST!',
+            'LETS GO COWBOYS'
         ],
         evening: [
 			'GOODNIGHT MY DEAR',
-			'DREAMING OF YOU <3',
+			'LETS GO COWBOYS',
 			'YOU ARE THE SWEETEST OF PIES'
 		]
     },
